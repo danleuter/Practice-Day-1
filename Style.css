@@ -1,0 +1,21 @@
+#box1 {
+	border: 2px solid #d9634e;
+	vertical-align: center;
+	text-align: center;
+}
+
+	p{
+		font-family: "Anton", Arial
+	}
+
+
+
+}
+
+#box2 {
+	border: 2px solid black;
+}
+
+#box3 {
+	border: 2px solid black;
+}
